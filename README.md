@@ -3,7 +3,7 @@
 **Track:** Prediction Markets & Real-World Settlement — Agent Tank hackathon
 (`https://portal.genlayer.foundation/agent-tank/hackathon`)
 
-**Demo:** <https://anybet.onrender.com/index.html> — the overview.
+**Demo:** <https://anybet.onrender.com/anybet.html> — the overview.
 The app, where you open markets, bet, resolve and collect, is at
 [`/app.html`](https://anybet.onrender.com/app.html).
 
